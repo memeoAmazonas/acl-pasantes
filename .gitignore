@@ -1,0 +1,5 @@
+/.idea/
+/jonatan/node_modules/
+/jonatan/yarn.lock
+/jonatan/proyecto.iml
+/jonatan/package-lock.json
